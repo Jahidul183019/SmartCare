@@ -109,7 +109,7 @@ SmartCare-32/
 ### **Sample UART Summary Report**:
 Below is a screenshot of the generated UART report for a patient:
 
-![UART Summary Report](screenshots/uart_report.png)
+![UART Summary Report](screenshots/UART_Report.png)
 
 
 ## **Module 11: Error Detection & Logging**
